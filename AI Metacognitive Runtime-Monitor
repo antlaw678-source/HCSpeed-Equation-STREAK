@@ -83,7 +83,7 @@ if __name__ == "__main__":
     print("\n==================================================")
     print(f"{firm_core_engine.system_status}")
     print("==================================================")
-    print("Welcome back, Anthony Lawson. Continuous loop active.\n")
+    print("Welcome back. Continuous loop active.\n")
     
     while True:
         try:
