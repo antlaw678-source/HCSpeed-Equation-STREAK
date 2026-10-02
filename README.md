@@ -1,6 +1,6 @@
-# HCSpeed-Equation-STREAK
+# HumanConsciousnessSpeedEquation-STREAK
 Bio-Software Update 
-Formulated at 8:38 am November 21, 2025. The HCSpeed-Equation of consciousness is as follows: Speed = the rate at which consciousness moves through states (memory, perception, prediction, insight, and action).
+Formulated at 8:38 am November 21, 2025. The Human Consciousness Speed-Equation of consciousness is as follows: Speed = the rate at which consciousness moves through states (memory, perception, prediction, insight, and action).
 The key to this is…metacognition.
 The equation turns consciousness into a vector. I’ve been using it myself, and it’s self-referential. The key is to not think of speed as physical, but as the rate at which your perspective can shift states. The effect of this Equation or Update is the State Transition Rates Equation Awareness Kinetic(STREAK). It’s the cause and effect of thinking about thinking delivered to a consciousness that solves the equation.
 
